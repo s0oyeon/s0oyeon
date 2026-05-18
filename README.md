@@ -1,39 +1,119 @@
-# Hi there, I'm [이름/닉네임] 👋
-### 🚀 블렌딩된 경험을 만드는 [UI/UX / 웹] 디자이너입니다.
+# UI/UX · 웹디자이너
 
-디자인과 기술의 경계를 좁히며, 사용자가 미소 짓는 인터페이스를 설계합니다. 
-개발자의 언어를 이해하고 협업하는 것을 즐깁니다.
+사용자의 흐름을 이해하고,  
+**디자인에서 웹 구현까지 연결되는 화면 경험**을 설계합니다.
 
----
-
-## 🛠️ Tech Stacks & Tools
-
-### 🎨 Design & Prototyping
-<img src="https://img.shields.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" /> <img src="https://img.shields.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" /> <img src="https://img.shields.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
-
-### 💻 Development (Tech-Friendly Designer)
-<img src="https://img.shields.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> <img src="https://img.shields.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+`UI/UX 디자인` · `웹디자인` · `Figma` · `반응형 웹` · `HTML` · `CSS` · `JavaScript`
 
 ---
 
-## 📂 Featured Projects
+## 소개
 
-| 프로젝트 이미지/썸네일 | 프로젝트 정보 | 핵심 역할 & 기여도 |
-| :---: | :--- | :--- |
-| <img src="[프로젝트1_이미지_링크]" width="200"/> | **[프로젝트 이름 1]**<br>• 한 줄 설명: [예: 2030을 위한 자취방 매칭 서비스]<br>• [🔗 포트폴리오 보기]([링크]) \| [💻 Repo]([링크]) | • UI/UX 총괄 (기여도 100%)<br>• 디자인 시스템 구축<br>• GUI 디자인 및 가이드라인 제작 |
-| <img src="[프로젝트2_이미지_링크]" width="200"/> | **[프로젝트 이름 2]**<br>• 한 줄 설명: [예: 반응형 브랜드 웹사이트 구축]<br>• [🔗 라이브 웹사이트]([링크]) | • 웹디자인 및 퍼블리싱 (기여도 80%)<br>• HTML/CSS 마크업 작업 |
-
----
-
-## ✍️ Latest Insight (또는 Working Style)
-*   **디자인 시스템 구축:** 재사용 가능한 컴포넌트 설계를 통해 개발 생산성을 높이는 데 집중합니다.
-*   **협업 모토:** "개발하기 편한 디자인이 좋은 디자인의 시작이다." 토큰 기반 디자인 시스템을 선호합니다.
+| 구분 | 내용 |
+|---|---|
+| 디자인 분야 | UI/UX 디자인, 웹디자인, 비주얼 디자인 |
+| UX 설계 | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
+| 웹 이해도 | HTML, CSS, JavaScript, 반응형 웹 |
+| 관심 분야 | 디자인 시스템, 웹접근성, 퍼블리싱, 사용자 경험 개선 |
 
 ---
 
-## 📫 Connect with me!
+## 주요 관심 영역
 
-<a href="mailto:[이메일주소]"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="[포트폴리오사이트_링크]"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/></a>
-<a href="[링크드인_링크]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="[비핸스/노션_링크]"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/></a>
+| 영역 | 설명 |
+|---|---|
+| UI/UX 디자인 | 사용자가 이해하기 쉬운 화면 흐름과 구조를 설계합니다. |
+| 웹디자인 | 브랜드와 서비스 목적에 맞는 웹 인터페이스를 디자인합니다. |
+| 퍼블리싱 이해 | 디자인이 실제 웹 화면에서 구현되는 방식을 고려합니다. |
+| 디자인 시스템 | 색상, 타이포그래피, 버튼, 컴포넌트를 일관성 있게 정리합니다. |
+
+---
+
+## 사용 도구와 기술
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 포트폴리오 프로젝트
+
+| 프로젝트 | 유형 | 주요 작업 |
+|---|---|---|
+| UI/UX 디자인 프로젝트 | UX/UI | 사용자 흐름, 정보 구조, 와이어프레임, 프로토타입 |
+| 웹디자인 프로젝트 | Web Design | 메인 페이지, 서브 페이지, 컬러 시스템, 타이포그래피 |
+| 퍼블리싱 프로젝트 | Frontend | HTML, CSS, JavaScript, 반응형 웹 구현 |
+
+---
+
+## 작업 프로세스
+
+```mermaid
+flowchart LR
+    A[문제 이해] --> B[사용자 분석]
+    B --> C[정보 구조 설계]
+    C --> D[와이어프레임]
+    D --> E[UI 디자인]
+    E --> F[프로토타입]
+    F --> G[피드백 반영]
+    G --> H[웹 구현 검토]
+```
+
+---
+
+## 디자인 사고 구조
+
+```mermaid
+mindmap
+  root((Design))
+    UX
+      사용자 흐름
+      정보 구조
+      와이어프레임
+      프로토타입
+    UI
+      레이아웃
+      컬러
+      타이포그래피
+      컴포넌트
+    Web
+      HTML
+      CSS
+      JavaScript
+      반응형 웹
+```
+
+---
+
+## 현재 학습 중인 내용
+
+![Design System](https://img.shields.io/badge/디자인%20시스템-학습중-7B61FF?style=flat-square)
+![Responsive Web](https://img.shields.io/badge/반응형%20웹-학습중-1572B6?style=flat-square)
+![Accessibility](https://img.shields.io/badge/웹접근성-학습중-2E7D32?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-학습중-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-기초%20학습-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+---
+
+## Contact
+
+| 구분 | 링크 |
+|---|---|
+| Email | your-email@example.com |
+| Portfolio | 준비 중 |
+| GitHub | https://github.com/your-github-id |
