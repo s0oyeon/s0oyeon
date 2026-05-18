@@ -4,17 +4,15 @@
 
 디자인과 기술의 경계를 좁히며, 사용자가 미소 짓는 인터페이스를 설계합니다. 
 개발자의 언어를 이해하고 협업하는 것을 즐깁니다.
-<!--
-**s0oyeon/s0oyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🛠️ Tech Stacks & Tools
 
-Here are some ideas to get you started:
+### HTML, CSS
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📂 Featured Projects
+
+
+---
+## 📫 Connect with me!
+
